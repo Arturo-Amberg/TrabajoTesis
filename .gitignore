@@ -1,4 +1,6 @@
 *.xlsx
+*.csv
+*.png
 *.shp
 *.kmz
 *.kml
