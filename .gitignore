@@ -5,3 +5,14 @@
 *.kmz
 *.kml
 *.html
+*.cpg
+*.dbf
+*.prj
+*.qgs
+*.qgz
+*.sbn
+*.sbx
+*.cpg
+*.xml
+*.sbn
+*.shx
